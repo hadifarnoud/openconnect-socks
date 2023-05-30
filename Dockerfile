@@ -1,4 +1,4 @@
-FROM debian:8.6
+FROM debian:11-slim
 
 EXPOSE 8080
 
